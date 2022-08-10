@@ -8,10 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aeternus185&label=Profile%20views&color=0e75b6&style=flat" alt="Aeternus185" /> </p>
 
 <h3>Languages and Tools:</h3>
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/figma.svg" />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aeternus185&show_icons=true&theme=github_dark)
 
