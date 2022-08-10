@@ -5,8 +5,10 @@
 <h3 align="center">A self-taught Venezuelan developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Aeternus185/Aeternus185/main/assets/developer.png">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aeternus185&label=Profile%20views&color=0e75b6&style=flat" alt="Aeternus185" /> </p>
+
+<h3>Languages and Tools:</h3>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aeternus185&show_icons=true&theme=github_dark)
 
@@ -22,3 +24,5 @@
 
 
 <!--END_SECTION:activity-->
+
+<a href='https://ko-fi.com/Z8Z8E00CM' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
