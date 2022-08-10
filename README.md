@@ -13,3 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aeternus185&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3>Recent Activity</h3>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
