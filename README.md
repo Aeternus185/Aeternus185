@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aeternus185&label=Profile%20views&color=0e75b6&style=flat" alt="Aeternus185" /> </p>
 
-<h3>Languages and Tools:</h3>
+<h3>Languages and Tools</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,vscode, )](https://skillicons.dev)
 
