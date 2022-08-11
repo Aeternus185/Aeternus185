@@ -8,8 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aeternus185&label=Profile%20views&color=0e75b6&style=flat" alt="Aeternus185" /> </p>
 
 <h3>Languages and Tools:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aeternus185&show_icons=true&theme=github_dark)
 
