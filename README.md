@@ -17,14 +17,5 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aeternus185&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>Recent Activity</h3>
-<!--START_SECTION:activity-->
-
-
-
-
-
-<!--END_SECTION:activity-->
-
 <h3>Support</h3>
 <a href='https://ko-fi.com/Z8Z8E00CM' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
