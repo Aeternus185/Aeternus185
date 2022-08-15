@@ -2,6 +2,10 @@
 <h3 align="center">A self-taught Venezuelan developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Aeternus185/Aeternus185/main/assets/developer.png">
 
+- 🔭 I’m currently working on my portfolio and HTML SaaS Template 
+- 🌱 I’m currently learning HTML - CSS - JS, and a bit of everything 
+- 💬 Ask me about anything, I'm happy to help! 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aeternus185&label=Profile%20views&color=0e75b6&style=flat" alt="Aeternus185" /> </p>
 
 <h3>Languages and Tools</h3>
