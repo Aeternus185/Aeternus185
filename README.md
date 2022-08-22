@@ -1,4 +1,4 @@
-<h1>Hello there fellow <𝙘𝙤𝙙𝙚𝙧𝙨/> <img src="https://raw.githubusercontent.com/Aeternus185/Aeternus185/main/assets/wave-animated.gif" width="40px"></h1>
+<h1>Hello there, fellow <𝙘𝙤𝙙𝙚𝙧𝙨/> <img src="https://raw.githubusercontent.com/Aeternus185/Aeternus185/main/assets/wave-animated.gif" width="40px"></h1>
 <h3>I'm Andry Orellana, A self-taught Venezuelan developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Aeternus185/Aeternus185/main/assets/developer.png">
 
