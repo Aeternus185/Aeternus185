@@ -1,3 +1,14 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+<a href="https://www.instagram.com/_andry_ore/)" target="_blank"><img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="mailto:andryfpo@gmail.com" target="_blank"><img alt="LinkedIn Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/aeternus185/" target="_blank"><img alt="LinkedIn Badge" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=Aeternus185&style=flat-square&color=blue" alt="Aeternus185"/>
+</div>
+
+
 <h1>Hello there, fellow <𝙘𝙤𝙙𝙚𝙧𝙨/> <img src="https://raw.githubusercontent.com/Aeternus185/Aeternus185/main/assets/wave-animated.gif" width="40px"></h1>
 <h3>I'm Andry Orellana, A self-taught Venezuelan developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Aeternus185/Aeternus185/main/assets/developer.png">
