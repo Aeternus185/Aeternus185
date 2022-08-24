@@ -21,3 +21,19 @@ I'm Andry Orellana, A self-taught Venezuelan developer.
 - :seedling: I’m currently learning HTML - CSS - JS, and a bit of everything 
 
 - :speech_balloon: Ask me about anything, I'm happy to help! 
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,vscode, )](https://skillicons.dev)
+
+---
+
+### :fire: My Stats :
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aeternus185&show_icons=true&theme=github_dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aeternus185&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
